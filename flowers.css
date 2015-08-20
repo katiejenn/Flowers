@@ -1,0 +1,23 @@
+h1{
+	font-family: Papyrus, fantasy;
+	text-align: center;
+}
+
+img{
+	float: left;
+	width: 350px;
+	height: 350px;
+	margin-right: 50px;
+	margin-top: 20px;
+}
+
+#content{
+	margin-top: 30px;
+	letter-spacing: 2px;
+}
+
+#test{
+	width: 50;
+	height:50;
+	background-color: red;
+}
